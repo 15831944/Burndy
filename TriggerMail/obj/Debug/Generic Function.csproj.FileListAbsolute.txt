@@ -1,0 +1,51 @@
+G:\Sample Application\Generic Function\Generic Function\bin\Debug\Generic Function.dll
+G:\Sample Application\Generic Function\Generic Function\bin\Debug\Generic Function.pdb
+G:\Sample Application\Generic Function\Generic Function\obj\Debug\Generic Function.dll
+G:\Sample Application\Generic Function\Generic Function\obj\Debug\Generic Function.pdb
+G:\Sample Application\Generic Function\Generic Function\obj\Debug\Generic Function.csprojResolveAssemblyReference.cache
+C:\Users\rajendra\Desktop\Chokalingam for demo\BusBar\IntentServices\Generic Function\Generic Function\bin\Debug\Generic Function.dll
+C:\Users\rajendra\Desktop\Chokalingam for demo\BusBar\IntentServices\Generic Function\Generic Function\bin\Debug\Generic Function.pdb
+C:\Users\rajendra\Desktop\Chokalingam for demo\BusBar\IntentServices\Generic Function\Generic Function\obj\Debug\Generic Function.dll
+C:\Users\rajendra\Desktop\Chokalingam for demo\BusBar\IntentServices\Generic Function\Generic Function\obj\Debug\Generic Function.pdb
+C:\Users\appadurai.KKM\Desktop\BusBar\IntentServices\TriggerMail\bin\Debug\Generic Function.dll
+C:\Users\appadurai.KKM\Desktop\BusBar\IntentServices\TriggerMail\bin\Debug\Generic Function.pdb
+C:\Users\appadurai.KKM\Desktop\BusBar\IntentServices\TriggerMail\obj\Debug\Generic Function.csprojResolveAssemblyReference.cache
+C:\Users\appadurai.KKM\Desktop\BusBar\IntentServices\TriggerMail\obj\Debug\Generic Function.dll
+C:\Users\appadurai.KKM\Desktop\BusBar\IntentServices\TriggerMail\obj\Debug\Generic Function.pdb
+E:\BUS BAR\BusBar\IntentServices\TriggerMail\bin\Debug\Generic Function.dll
+E:\BUS BAR\BusBar\IntentServices\TriggerMail\bin\Debug\Generic Function.pdb
+E:\BUS BAR\BusBar\IntentServices\TriggerMail\obj\Debug\Generic Function.dll
+E:\BUS BAR\BusBar\IntentServices\TriggerMail\obj\Debug\Generic Function.pdb
+E:\BUS BAR\IntentServices\TriggerMail\bin\Debug\Generic Function.dll
+E:\BUS BAR\IntentServices\TriggerMail\bin\Debug\Generic Function.pdb
+E:\BUS BAR\IntentServices\TriggerMail\obj\Debug\Generic Function.dll
+E:\BUS BAR\IntentServices\TriggerMail\obj\Debug\Generic Function.pdb
+E:\BUS BAR\Current\IntentServices\TriggerMail\bin\Debug\Generic Function.dll
+E:\BUS BAR\Current\IntentServices\TriggerMail\bin\Debug\Generic Function.pdb
+E:\BUS BAR\Current\IntentServices\TriggerMail\obj\Debug\Generic Function.dll
+E:\BUS BAR\Current\IntentServices\TriggerMail\obj\Debug\Generic Function.pdb
+E:\BUS BAR\Current\IntentServices\TriggerMail\obj\Debug\Generic Function.csprojResolveAssemblyReference.cache
+D:\Busbar\From GAD\Develoment\Project\BusBar\IntentServices\TriggerMail\bin\Debug\Generic Function.dll
+D:\Busbar\From GAD\Develoment\Project\BusBar\IntentServices\TriggerMail\bin\Debug\Generic Function.pdb
+D:\Busbar\From GAD\Develoment\Project\BusBar\IntentServices\TriggerMail\obj\Debug\Generic Function.dll
+D:\Busbar\From GAD\Develoment\Project\BusBar\IntentServices\TriggerMail\obj\Debug\Generic Function.pdb
+D:\Busbar\From GAD\Develoment\Project\BusBar\IntentServices\TriggerMail\obj\Debug\Generic Function.csprojResolveAssemblyReference.cache
+D:\KKM\Busbar\BusBar Source\Busbar - Source\TriggerMail\bin\Debug\Generic Function.dll
+D:\KKM\Busbar\BusBar Source\Busbar - Source\TriggerMail\bin\Debug\Generic Function.pdb
+D:\KKM\Busbar\BusBar Source\Busbar - Source\TriggerMail\obj\Debug\Generic Function.dll
+D:\KKM\Busbar\BusBar Source\Busbar - Source\TriggerMail\obj\Debug\Generic Function.pdb
+D:\KKM\Busbar\BusBar Source\Busbar - Source\TriggerMail\obj\Debug\Generic Function.csprojResolveAssemblyReference.cache
+D:\GAD - Quick Tap\TriggerMail\bin\Debug\Email_Configuration.dll
+D:\GAD - Quick Tap\TriggerMail\bin\Debug\Email_Configuration.pdb
+D:\GAD - Quick Tap\TriggerMail\obj\Debug\Email_Configuration.dll
+D:\GAD - Quick Tap\TriggerMail\obj\Debug\Email_Configuration.pdb
+D:\TriggerMail\bin\Debug\Email_Configuration.dll
+D:\TriggerMail\bin\Debug\Email_Configuration.pdb
+D:\TriggerMail\obj\Debug\Generic Function.csprojResolveAssemblyReference.cache
+D:\TriggerMail\obj\Debug\Email_Configuration.dll
+D:\TriggerMail\obj\Debug\Email_Configuration.pdb
+D:\Mohan_latest\TriggerMail\obj\Debug\Email_Configuration.dll
+D:\Mohan_latest\TriggerMail\obj\Debug\Email_Configuration.pdb
+D:\Mohan_latest\TriggerMail\bin\Debug\Email_Configuration.dll
+D:\Mohan_latest\TriggerMail\bin\Debug\Email_Configuration.pdb
+D:\Mohan_latest\TriggerMail\obj\Debug\Generic Function.csprojResolveAssemblyReference.cache
